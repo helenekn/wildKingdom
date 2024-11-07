@@ -305,7 +305,7 @@ textarea.input {
   width: 100%;
   z-index: 50;
   -webkit-transform: all .8s;
-  transform: all .8s
+  transition: all .8s
 }
 .header._header-scroll {
   background-color: rgba(0,0,0,.4)
